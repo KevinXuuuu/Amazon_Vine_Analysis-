@@ -10,3 +10,4 @@ Use PySpark to perform the ETL process to extract the dataset, transform the dat
 
 ## Summary:
 
+Base on the result above, it turns out the that unpaid 5 star is much more than paid 5 start people.
